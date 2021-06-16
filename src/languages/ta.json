@@ -1,0 +1,19 @@
+{
+  
+  "houseId":"House id",
+  "signLord":"Sign lord",
+  "starLord":"Star lord",
+  "mercury":"புதன்,",
+  "rahu":"ராகு",
+  
+  "moon":"சந்திரன்",
+  "saturn":"சனி",
+
+  "sun":"சூரியன்",
+  "ketu":"கேட்டு",
+  "venus":"வெள்ளி",
+  
+  "mars":"செவ்வாய்",
+  "jupiter":"வியாழன்"
+  
+}
